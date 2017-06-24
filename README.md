@@ -1,5 +1,7 @@
 # The Last Lesson
-* Pull down a project (NOT YOUR PRESENTATION PROJECT) from earlier in the week
+* Pull down a project **(NOT YOUR PRESENTATION PROJECT)** from earlier in the week.
+##### **OR**
+* Continue working on the `index.html` file in the saturday exercise.
 
 ### You may pick and choose from the list below...
 * Add the animate CSS library in the `<head>` of your html file. 
@@ -9,6 +11,7 @@
   * Add another html page that is linked in your nav bar.
 * Add a parallax image to your page. 
   * [Hint](https://www.w3schools.com/howto/howto_css_parallax.asp).
+  * Add a transparent `<div>` on top of your image.
 * Create a new <button> in your html file.
   * Use the jQuery `click()` event to hide everything on the page when the button is clicked.
   * Style the button to look nice.
